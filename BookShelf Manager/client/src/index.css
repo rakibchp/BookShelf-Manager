@@ -1,0 +1,5 @@
+/* ─── index.css ───────────────────────────────────────────────────────────────
+   Tailwind v4 — single import activates all utility classes.
+   No config file needed with the @tailwindcss/vite plugin.
+   ──────────────────────────────────────────────────────────────────────────── */
+@import "tailwindcss";
